@@ -1,5 +1,8 @@
 # Sitio Colaborativo
 
+[![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
+[![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue.svg)](CHANGELOG.md)
+
 Sitio web de práctica con una página de inicio y una página de contacto, construido con HTML y CSS. Sirve para practicar un flujo de trabajo profesional con Git y GitHub: issues, ramas, pull requests y versiones.
 
 ## Instalación
